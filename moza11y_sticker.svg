@@ -1,9 +1,10 @@
-<svg width="154mm" height="42mm" viewBox="0 0 154 42" xmlns="http://www.w3.org/2000/svg">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="185mm" height="42mm" viewBox="0 0 185 42" xmlns="http://www.w3.org/2000/svg">
     <defs>
        <style>
           @import url("https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@700");
           path {
-            fill:#000;
+            fill:#ff0;
             stroke: none;
           }
           tspan {
@@ -13,12 +14,12 @@
             font-stretch:normal;
             font-size:38.8056px;
             font-family:'Zilla Slab';
-            fill:#ff0;
+            fill:#000;
           }
-      </style> 
+      </style>
     </defs>
-    <path style="" d="M28.401 65.652h154v42h-154z" transform="translate(-28.4 -65.652)"/>
-    <text transform="translate(-28.4 -65.652)">
-        <tspan x="31.845" y="95.868">moz:a//y</tspan>
+    <path style="fill:#ffff00;stroke-width:1.09622" d="M 0,0 H 185 V 42 H 0 Z"/>
+    <text x="-28.315594" y="-65.651665">
+        <tspan x="3.5294065" y="30.21633">moz://a11y</tspan>
     </text>
 </svg>
